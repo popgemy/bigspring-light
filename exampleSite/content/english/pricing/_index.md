@@ -44,7 +44,7 @@ business:
     label: Get started for free
     link: "#"
 call_to_action:
-  enable: false
+  enable: true
   title: Need a larger plan?
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
