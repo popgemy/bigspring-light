@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring-light"
-title = "Bigspring Light"
+title = "Coda Mix"
 [markup.goldmark.renderer]
 unsafe = true
