@@ -4,9 +4,9 @@ subtitle: ''
 description: This is meta description
 basic:
   name: Basic Plan
-  price: "$49"
+  price: "$4"
   price_per: month
-  info: Best For Small Individuals
+  info: Best For Small Individuals and blogs
   services:
   - Express Service
   - Customs Clearance
